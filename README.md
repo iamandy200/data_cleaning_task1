@@ -41,3 +41,10 @@ The goal was to clean a raw dataset containing missing values, duplicates, incon
 ---
 
 ## 📊 Example Output (Cleaned Data)
+customerid name gender country age joindate revenue
+0 101 John male Usa 25 2023-05-12 4500.0
+1 102 Sarah female Usa 30 2023-06-14 3260.0
+2 103 John male Canada 28 2023-07-14 3200.0
+3 104 Ravi male India 27 2022-03-05 2800.0
+4 105 Sarah female Uk 30 2023-06-05 3000.0
+5 106 Priya female India 27 2023-03-10 2800.0
